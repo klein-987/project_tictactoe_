@@ -19,7 +19,7 @@ A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **J
 ## 📂 Project Structure
 
 ```text
-tic-tac-toe/
+project_tictactoe_/
 │
 ├── index.html      # Main HTML file
 ├── style.css       # Styling
@@ -40,13 +40,12 @@ tic-tac-toe/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/gaddamdroneswarreddy/tic-tac-toe.git
-```
+git clone https://github.com/klein-987/project_tictactoe_.git```
 
 2. Open the project folder:
 
 ```bash
-cd tic-tac-toe
+cd project_tictactoe_
 ```
 
 3. Open `index.html` in your browser.
