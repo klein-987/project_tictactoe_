@@ -63,10 +63,9 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-**Droneswar Reddy Gaddam**
+**Venkata Kartheek**
 
-GitHub: https://github.com/gaddamdroneswarreddy
-
+GitHub: https://github.com/klein-987
 ## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
